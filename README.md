@@ -17,6 +17,10 @@ Este repositório é uma coleção de conceitos matemáticos escritos de forma c
 
 ##  Índice de Conteúdos
 
+###  binário e Decimal
+- [converção](converção/equaçoes.md)
+-
+
 ###  Álgebra
 - [Equações do 1º Grau](algebra/equacoes-1-grau.md)
 - [Equações do 2º Grau](algebra/equacoes-2-grau.md)
